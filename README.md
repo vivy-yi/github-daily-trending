@@ -71,15 +71,7 @@ github-daily-trending/
 
 ## 更新频率
 
-每日 00:00 (北京时间) 自动更新
-
-## 自动生成
-
-由 **mo-richang** Agent 自动执行：
-1. 抓取当日 GitHub Trending
-2. 筛选 AI/Agent 相关项目
-3. 生成格式化报告
-4. 推送至 Telegram 群
+每日自动更新
 
 ## 相关项目
 
