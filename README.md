@@ -55,5 +55,4 @@ github-daily-trending/
 - [awesome-openclaw](https://github.com/vivy-yi/awesome-openclaw) - OpenClaw 生态项目精选
 - [agent-harness](https://github.com/vivy-yi/agent-harness) - Agent Harness 相关文章
 
----
-*Maintained by mo-richang | 技术支撑团队*
+
